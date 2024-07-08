@@ -1,45 +1,53 @@
-[
+{
+  "patients": [
     {
+      "id": 1,
       "nome": "João Silva",
       "peso": 70,
       "altura": 1.75,
       "gordura": 20
     },
     {
+      "id": 2,
       "nome": "Maria Souza",
       "peso": 65,
       "altura": 1.68,
       "gordura": 22
     },
     {
+      "id": 3,
       "nome": "Carlos Pereira",
       "peso": 80,
       "altura": 1.80,
       "gordura": 18
     },
     {
+      "id": 4,
       "nome": "Ana Oliveira",
       "peso": 55,
       "altura": 1.60,
       "gordura": 25
     },
     {
+      "id": 5,
       "nome": "Pedro Costa",
       "peso": 90,
       "altura": 1.85,
       "gordura": 24
     },
     {
+      "id": 6,
       "nome": "Lucas Santos",
       "peso": 77,
       "altura": 1.70,
       "gordura": 19
     },
     {
+      "id": 7,
       "nome": "Julia Almeida",
       "peso": 68,
       "altura": 1.72,
       "gordura": 21
     }
   ]
-  
+}
